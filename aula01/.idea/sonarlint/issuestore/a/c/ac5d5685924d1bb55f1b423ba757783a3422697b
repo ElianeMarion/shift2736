@@ -1,0 +1,35 @@
+
+Š
+java:S2184/"BCast one of the operands of this division operation to a "double".(ÓóŒÿÿÿÿÿ8Õù´ÔÓ2J$1345e78d-d79a-40a4-9a6c-8d578c58f0dc
+
+java:S1854/"9Remove this useless assignment to local variable "media".(ÓóŒÿÿÿÿÿ8Üù´ÔÓ2J$12f7befb-d2bd-45dd-9005-8d6586ca47cd
+x
+java:S1854,"5Remove this useless assignment to local variable "i".(äí¹Ö8Üù´ÔÓ2J$ba5f4490-385f-4415-8f3c-a4cc8b0385ff
+
+java:S1854*"7Remove this useless assignment to local variable "num".(ìƒœõùÿÿÿÿ8Üù´ÔÓ2J$476a064c-a5d1-423b-9dea-dd39b2ba6d7c
+}
+java:S1854"5Remove this useless assignment to local variable "y".(Ø®¿Ãùÿÿÿÿ8Üù´ÔÓ2J$4de3dcc3-da03-4486-bf76-71d3129f8525
+g
+java:S1659)"Declare "i" on a separate line.(ë‹¥ùÿÿÿÿ8İù´ÔÓ2J$96b466ad-a71f-44bb-a64b-1200b9e016d5
+m	java:S106
+"+Replace this use of System.out by a logger.(Äº¸À8àù´ÔÓ2J$7c33684f-60f6-43eb-9087-f4800f567ba7
+r	java:S106"+Replace this use of System.out by a logger.(ûâ±Œûÿÿÿÿ8àù´ÔÓ2J$c32ce886-bf18-4820-9ec6-818825e7b473
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Û¦ôŸüÿÿÿÿ8áù´ÔÓ2J$99196e95-ade9-4084-8a08-eb4d7ce6a06f
+o
+java:S1481",Remove this unused "salario" local variable.(Å‡ÈÜ8âù´ÔÓ2J$a9ca6ea0-f165-44ed-ab93-70824224e75a
+o
+java:S1481"-Remove this unused "caracter" local variable.(…Í»j8âù´ÔÓ2J$d68a72ec-d7aa-4b9f-a850-ab3aea9e091e
+v
+java:S1481".Remove this unused "temFilhos" local variable.(è€‰ıùÿÿÿÿ8âù´ÔÓ2J$743ea0d5-7352-4eea-be26-1ec3f01d01c8
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÇÏáëùÿÿÿÿ8ãù´ÔÓ2J$632a9dfb-fba5-42ad-bdb0-3249f0b9620d
+m	java:S106"+Replace this use of System.out by a logger.(ŒöÇ¸8ãù´ÔÓ2J$5395031e-05e2-4367-97be-9b1c980cb82d
+r	java:S106"+Replace this use of System.out by a logger.(ŸÛœ§øÿÿÿÿ8ãù´ÔÓ2J$618de3a8-ef5f-451f-bf44-1654fd45e1c1
+r	java:S106"+Replace this use of System.out by a logger.(Šş°ûÿÿÿÿÿ8ãù´ÔÓ2J$33f983fc-65e6-47ba-b377-1acee6721488
+p
+java:S1481)"(Remove this unused "num" local variable.(ë‹¥ùÿÿÿÿ8äù´ÔÓ2J$79df1471-2e67-4ffe-811e-6b1ddaeca775
+n
+java:S1481)"&Remove this unused "i" local variable.(ë‹¥ùÿÿÿÿ8äù´ÔÓ2J$45d1b6b5-5c78-4042-9086-70ca3b294d3d
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(ìƒœõùÿÿÿÿ8äù´ÔÓ2J$232e1585-dcb9-4752-adc6-7171efe2b8e0
+~	java:S125,"<This block of commented-out lines of code should be removed.(äí¹Ö8äù´ÔÓ2J$a0b12204-faec-4fc5-a95f-e7ee81d5cfbe
+r
+java:S1481/"*Remove this unused "media" local variable.(ÓóŒÿÿÿÿÿ8äù´ÔÓ2J$91cd594c-1f43-4934-acf9-0b93a94fbbbe
